@@ -21,3 +21,6 @@ Pulling changes
 
 Force pulling changes
 	git pull
+
+Pull changes, applying local changes atop remote
+	git pull --rebase
