@@ -1,6 +1,5 @@
 # Git
 
-
 ## Intialize a project
 
 Initialize on github
